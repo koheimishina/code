@@ -1,5 +1,4 @@
-
-ot@i-00000317 tmp]# cat EventDrainSuccessCount.monitor 
+]# cat EventDrainSuccessCount.monitor 
 #!/usr/bin/perl
 #このmonitorはjmxquery.jarを利用してmbeansをチェックします。その為、jmxquery.jarの仕様に則った形でコマンドを生成してチェックします。
 use strict;
